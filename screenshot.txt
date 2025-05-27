@@ -1,0 +1,31 @@
+# GetYourGuide WordPress Theme Screenshot
+
+This file would contain a screenshot.png image (1200x900px) showing:
+
+## Homepage Preview:
+- Header with GetYourGuide logo and navigation
+- Hero section with hot air balloons background
+- Search bar with category tabs (For you, Culture, Food, Nature)
+- Featured tours grid with cards showing:
+  - Tour images
+  - Ratings and reviews
+  - Prices and booking buttons
+  - "Skip the line" and "Small group" badges
+- "Top cultural sights" section with destination cards
+- Footer with links and payment methods
+
+## Key Visual Elements:
+- Orange (#ff6b35) and blue (#3182ce) color scheme
+- Clean, modern card-based layout
+- Professional typography
+- Responsive grid system
+- Hover effects and animations
+- Mobile-friendly design
+
+To add a proper screenshot:
+1. Take a screenshot of the homepage at 1200x900 resolution
+2. Save as screenshot.png in the theme root directory
+3. This will appear in WordPress Admin → Appearance → Themes
+
+The screenshot should showcase the theme's design and help users understand
+what their site will look like with this theme activated.
